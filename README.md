@@ -1,5 +1,6 @@
 ### Hi, I'm Svetlana 👋
 
+I am starting my career as a QA Engineer.
 
 <!--
 **SvetlanaKiseleva/SvetlanaKiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
