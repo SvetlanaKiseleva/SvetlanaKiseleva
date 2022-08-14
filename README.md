@@ -1,6 +1,8 @@
 ### Hi, I'm Svetlana 👋
 
 I am starting my career as a QA Engineer.
+I have completed an online courses in manual testing and «Software QA Automation Tester with Python».
+I'am looking for full-time remote or office job.
 
 <!--
 **SvetlanaKiseleva/SvetlanaKiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
